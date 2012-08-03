@@ -1,0 +1,12 @@
+/* TEAM */
+Chef: Will Rossiter
+Contact: will [at] fullscreen [dot] io
+Twitter: @wilr
+From: Wellington, New Zealand
+
+/* SITE */
+Last update:2011/12/18
+Language: English
+Standards: HTML5/CSS3
+Components: jQuery, jQuery.scrollTo, jquery.localScroll, jquery.tip
+Software: TextMate, Photoshop CS5.
