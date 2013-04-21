@@ -1,10 +1,9 @@
 BEGIN:VCARD
 N:Rossiter;Will;;;
 EMAIL;INTERNET:will@fullscreen.io
-EMAIL;INTERNET:will.rossiter@gmail.com
-ORG:Fullscreen Interactive
+ORG:Fullscreen Interactive Limited
 TEL;WORK:+64 27 389 3454
-TITLE:Web Developer
+TITLE:Director
 URL;WORK:http://fullscreen.io
-URL:http://wilr.github.com
+URL:http://wilr.github.io
 END:VCARD
