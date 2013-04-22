@@ -183,10 +183,12 @@ h2 {
 article {
 	margin: 0 0 20px 6.25%;
 	width: 31.25%;
+	max-width: 420px;
 	padding: 0 3.125% 3.125%;
 	margin-top: 3.881%;
 	padding-top: 3.125%;
 	background: #fff;
+	background: rgba(255, 255, 255, 0.8);
 	-webkit-box-shadow:  0px 1px 4px 0px rgba(0, 0, 0, 0.2);
 	box-shadow:  0px 1px 4px 0 rgba(0, 0, 0, 0.2);
 }
