@@ -1,5 +1,21 @@
 <!doctype>
 <html lang="en">
+<head>
+
+<style>
+img {
+	height: 240px;
+	width: 180px;
+}
+
+.loading {
+	height: 240px;
+	width: 180px;
+	float: left;
+	background: url(ajax-loader.gif) no-repeat center center;
+}
+</style>
+</head>
 <body>
 <h1>Drinks</h1>
 
@@ -21,7 +37,7 @@ run through ImageOptim to compress them down. Then run through imagemagick.
 		for(var i = 1; i <= 352; i++) {
 			var name = String("0000" + i).slice(-4);
 
-			document.write("<img src='drinks/"+ name + ".jpg' />");
+			document.write("<div class='loading'><img src='drinks/"+ name + ".jpg' /></div>");
 		}
 	</script>
 </body>
